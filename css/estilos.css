@@ -9,15 +9,7 @@ body {
 	margin-top: 80px;
 }
 .divboton {
-	margin-top: 88px;
-}
-.boton {
-	background-color: #424242 !important;
-	height: 68px !important;
-	text-transform: capitalize;
-	font-family: 'Bree Serif', serif;
-	font-size: 1.4em;
-	padding-top: 6.88px !important;
+	margin-top: 48px;
 }
 .siguenos {
 	margin-top: 28px;
@@ -26,7 +18,6 @@ body {
 	font-size: 1em;
 	font-weight: bold;
 }
-.redes {
+.divredes {
 	margin-top: 18px;
-
 }
